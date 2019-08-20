@@ -11,5 +11,6 @@ using namespace std;
 int a=0;
 
 int main(){
+	a=9;
 
 }
