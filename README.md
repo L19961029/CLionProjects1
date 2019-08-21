@@ -1,4 +1,0 @@
-# CLionProjects1
-
-
-hhh
